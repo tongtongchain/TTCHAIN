@@ -40,4 +40,4 @@ Bugs can be reported directly to the [TTCHAIN Issue Tracker](#).
 License
 ------
 
-The TTCHAIN project is licensed under the [MIT license](LICENSE).
+The TTCHAIN project is licensed under the [MIT license](https://github.com/tongtongchain/TTCHAIN/blob/master/License).
