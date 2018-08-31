@@ -21,8 +21,8 @@ TTCHAIN currently supports the following operating systems:
 Build TTCHAIN
 --------
 Different platforms have different build instructions:
-* [Windows](#)
-* [Linux](#)
+* [Windows](https://github.com/tongtongchain/TTCHAIN/blob/master/window_build.md)
+* [Linux (Coming Soon)](#)
 
 How to deploy a private chain
 -------------------------------------
