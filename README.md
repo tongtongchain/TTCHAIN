@@ -9,7 +9,11 @@ Tongtongcoin is a decentralized Blockchain-based cryptocurrency devised to drama
 networks as above.
 
 For more information about TTCHAIN, please read following document:
-* [TTCHAIN White Paper](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_English_v2.03.pdf).
+* [TTCHAIN White Paper (ENG)](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_English_v2.03.pdf).
+* [TTCHAIN White Paper (CHN)](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_china_v2.1.pdf).
+* [TTCHAIN White Paper (KOR)](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_Korean_v2.03.pdf).
+* [TTCHAIN White Paper (RUS)](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_Russian_v1.6.pdf).
+* [TTCHAIN White Paper (VNM)](http://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_Vietnamese_v1.6.pdf).
 
 ## Supported Operating Systems
 TTCHAIN currently supports the following operating systems:  
