@@ -26,7 +26,7 @@ Different platforms have different build instructions:
 
 How to use RPC API
 --------------------
-* [RPC API (Coming Soon)](#)
+* [RPC API (Coming Soon)](https://ttchain-docs.readthedocs.io/en/latest/)
  
 Contributing
 ------------
