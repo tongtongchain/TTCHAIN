@@ -30,7 +30,7 @@ How to deploy a private chain
 
 How to use RPC API
 --------------------
-* [RPC API (Under Development)](#)
+* [RPC API (Coming Soon)](#)
  
 Contributing
 ------------
