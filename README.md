@@ -24,10 +24,6 @@ Different platforms have different build instructions:
 * [Windows](https://github.com/tongtongchain/TTCHAIN/blob/master/window_build.md)
 * [Linux (Coming Soon)](#)
 
-How to deploy a private chain
--------------------------------------
-* [deploy private chain](#)
-
 How to use RPC API
 --------------------
 * [RPC API (Coming Soon)](#)
